@@ -80,7 +80,7 @@
         "OriginalityTitle": "Originalität",
         "OriginalityDescription": "Mit unserem untypischen Grafikstil versuchen wir den Blickwinkel auf Garry´s Mod DarkRP grundlegend zu verändern.",
         "CommunityTitle": "Community",
-        "CommunityDescription": "Du hast genug von den toxischen Communities? Du möchtest von einem kompetenten Team betreut werden und mit netten Spielern deine Zeit verbringen? Dann bist du hier genau richtig!",
+        "CommunityDescription": "Genug von toxischen Communities? Du suchst nette Mitspieler und ein entspanntes, aber kompetentes Team? Dann bist du hier genau richtig!",
         "WhyWeTitle": "Wieso wir?",
         "WhyWeDescription": "Viele  Server ähneln sich sehr stark und bemühen sich nur sehr selten um neue Updates. Wenn dir neue, einzigartige Spielerfahrungen zusagen bist du bei uns genau richtig!",
         "OurInfrastructureTitle": "Hardware",
@@ -113,7 +113,6 @@
         "AmountColumn": "Menge",
         "PackColumn": "Paket",
         "RecentDonations": "Letzte Spenden",
-        "And": "und",
-        "WelcomeOnTheStore": "Willkommen im Shop unseres Servers"
+        "And": "und"
     }
 }
