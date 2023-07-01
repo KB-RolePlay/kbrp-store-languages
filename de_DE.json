@@ -112,7 +112,8 @@
         "NameColumn": "Name",
         "AmountColumn": "Menge",
         "PackColumn": "Paket",
-        "RecentDonations": "Letzte Spenden"
-        "And": "und"
+        "RecentDonations": "Letzte Spenden",
+        "And": "und",
+        "WelcomeOnTheStore": "Willkommen im Shop unseres Servers"
     }
 }
