@@ -113,6 +113,7 @@
         "AmountColumn": "Montant",
         "PackColumn": "Pack",
         "RecentDonations": "Dernières donations",
-        "And": "et"
+        "And": "et",
+        "WelcomeOnTheStore": "Bienvenue sur la boutique de notre serveur"
     }
 }
