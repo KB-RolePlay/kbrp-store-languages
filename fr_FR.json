@@ -112,6 +112,7 @@
         "NameColumn": "Nom",
         "AmountColumn": "Montant",
         "PackColumn": "Pack",
-        "RecentDonations": "Dernières donations"
+        "RecentDonations": "Dernières donations",
+        "Add": "et"
     }
 }
