@@ -36,7 +36,7 @@
         "ConsumablePackage": "Verbrauchbar",
         "ModalDescriptionField": "Beschreibung",
         "TotalField": "Gesamt",
-        "ServerStoreDescription": "Willkommen in unserem DarkRP Shop!",
+        "ServerStoreDescription": "Willkommen in unserem {{SERVER_NAME}} Shop!",
         "AllPackagesFilter": "Alle Pakete",
         "VIPFilter": "VIP",
         "FamilyFilter": "Familie",
