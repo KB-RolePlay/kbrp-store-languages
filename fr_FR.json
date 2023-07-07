@@ -36,7 +36,7 @@
         "ConsumablePackage": "Consommable",
         "ModalDescriptionField": "Description",
         "TotalField": "Total",
-        "ServerStoreDescription": "Bienvenue sur la boutique de notre serveur",
+        "ServerStoreDescription": "Bienvenue sur la boutique de notre serveur {{SERVER_NAME}}",
         "AllPackagesFilter": "Tous les packages",
         "VIPFilter": "VIP",
         "FamilyFilter": "Famille",
@@ -113,6 +113,7 @@
         "AmountColumn": "Montant",
         "PackColumn": "Pack",
         "RecentDonations": "Dernières donations",
-        "And": "et"
+        "And": "et",
+        "noData": "Aucune donnée"
     }
 }

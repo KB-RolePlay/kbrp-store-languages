@@ -113,6 +113,7 @@
         "AmountColumn": "Menge",
         "PackColumn": "Paket",
         "RecentDonations": "Letzte Spenden",
-        "And": "und"
+        "And": "und",
+        "noData": "Keine Daten"
     }
 }
