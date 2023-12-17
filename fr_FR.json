@@ -114,6 +114,8 @@
         "PackColumn": "Pack",
         "RecentDonations": "Dernières donations",
         "And": "et",
-        "noData": "Aucune donnée"
+        "noData": "Aucune donnée",
+        "emailAddressTitle": "Adresse email",
+        "emailAddressDescription": "Entrez votre adresse email"
     }
 }
